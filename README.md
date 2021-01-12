@@ -6,7 +6,7 @@
 
 Hi there, thanks for stopping by, this is the Zodiac Speaking.
 
-<img align='right' src="https://im3.ezgif.com/tmp/ezgif-3-7bd5e03509ef.gif" width="230">
+<img align='right' src="https://i.imgur.com/rKs3AYK.gif" width="230">
 
 ```javascript
 const Zodiac = {
