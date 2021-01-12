@@ -1,7 +1,7 @@
 ![head.png](https://i.imgur.com/sttvGOx.gif)
 
 <p align="center">
-──────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────
 </p>
 
 Hi there, thanks for stopping by, this is the Zodiac Speaking.
